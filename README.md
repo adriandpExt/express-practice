@@ -1,0 +1,5 @@
+create a .env file and add this: 
+
+PORT=5001
+CONNECTION_STRING=mongodb+srv://admin:{addYourCredentials}@todoappcluster.bgiiynd.mongodb.net/todoapp?retryWrites=true&w=majority
+ACCESS_TOKEN_SECRET=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiZHAiLCJlbWFpbCI6ImRwQGdtYWlsLmNvbSIsImlkIjoiNjVhNGQ0NjQzNjc2NGU0NDhkM2NmODlkIn0sImlhdCI6MTcwNTMwOTUzNywiZXhwIjoxNzA1MzEwNzM3fQ.zrTvs1inTB6VowEV94XCDqmQpe1SGwEl3exgUCQzZ4o
